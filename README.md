@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestión de Inventarios y Almacén
 
-Este repositorio contiene una solución integral de escritorio desarrollada en Python para la administración de activos, herramientas y consumibles. El sistema automatiza el control de existencias, la generación de reportes profesionales y la gestión de préstamos, optimizando la cadena de suministro interna.
+Este repositorio contiene una solución integral de escritorio desarrollada en Python para la administración de activos, herramientas y consumibles. El sistema automatiza el control de existencias, la generación de reportes profesionales y la gestión de préstamos, optimizando la cadena de suministro interna. (Hecho ya 
 
 ## 🛠️ ¿Qué problemas soluciona?
 La gestión manual de almacenes suele derivar en pérdidas de material y datos inexactos. Este software soluciona:
@@ -44,8 +44,8 @@ El software funciona como una estación central de control para el inventario f�
 4. **Reportes:** Acceda a los botones de exportación en la barra lateral para generar los informes necesarios.
 
 ## 👥 Desarrollador
-* **Ramirez Cardenas Luis Armando** - (Matrícula: 2200607)
-
-**Institución:** Universidad Autónoma de Baja California (UABC).
-**Facultad:** Contaduría y Administración.
+Este sistema fue desarrollado íntegramente por:
+* **Ramirez Cardenas Luis Armando**
+* **Contacto:** https://www.linkedin.com/in/luis-armando-ramirez-cardenas-53712035b/
+Todo el diseño de la interfaz, la lógica de programación en Python y la estructura de gestión de datos fueron creados desde cero por mi cuenta para ofrecer una solución funcional y profesional de control de almacén.
 **Carrera:** Inteligencia de Negocios.
