@@ -47,5 +47,5 @@ El software funciona como una estación central de control para el inventario f�
 Este sistema fue desarrollado íntegramente por:
 * **Ramirez Cardenas Luis Armando**
 * **Contacto:** https://www.linkedin.com/in/luis-armando-ramirez-cardenas-53712035b/
-Todo el diseño de la interfaz, la lógica de programación en Python y la estructura de gestión de datos fueron creados desde cero por mi cuenta para ofrecer una solución funcional y profesional de control de almacén.
-**Carrera:** Inteligencia de Negocios.
+* Todo el diseño de la interfaz, la lógica de programación en Python y la estructura de gestión de datos fueron creados desde cero por mi cuenta para ofrecer una solución funcional y profesional de control de almacén.
+* **Carrera:** Inteligencia de Negocios.
